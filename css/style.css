@@ -4,6 +4,10 @@
 * {
   font-family: "Poppins", sans-serif;
 }
+/* main */
+main{
+  background-color: whitesmoke;
+}
 /* nav-title-google-fonts */
 .nav-title-google-fonts {
   font-family: "Poppins", sans-serif;
